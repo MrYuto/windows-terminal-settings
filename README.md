@@ -11,3 +11,5 @@ A backup that includes my custom wt theme, **Crystal Violet**.
 ![''](./screenshots/screenshot-3.png)
 
 ![''](./screenshots/screenshot-4.png)
+
+![''](./screenshots/screenshot-5.png)
